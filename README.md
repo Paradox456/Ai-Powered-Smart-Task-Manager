@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Powered Smart Task Manager 🚀
 
 An intelligent task manager that prioritizes tasks using AI, tracks productivity, and sends reminders.
