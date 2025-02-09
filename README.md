@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Smart Task Manager 🚀
 
 An intelligent task manager that prioritizes tasks using AI, tracks productivity, and sends reminders.
@@ -63,3 +64,6 @@ Pull requests are welcome! Open an issue for discussions.
 MIT License
 
 
+=======
+# AI-Powered Smart Task Manager
+>>>>>>> 9fbf665 (Initial project structure)
